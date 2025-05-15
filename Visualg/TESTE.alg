@@ -1,18 +1,12 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 16/02/2019
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 x : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    x <- 10
    
-   ESCOLHA X FAÇA
+   ESCOLHA X FAï¿½A
    CASO 10
         ESCREVAL(X)
    FIMESCOLHA
@@ -20,7 +14,7 @@ Inicio
    REPITA
          X <- X - 1
          ESCREVAL(X)
-   ATÉ_QUE X > 0
+   ATï¿½_QUE X > 0
 
 
 Fimalgoritmo

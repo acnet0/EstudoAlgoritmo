@@ -1,9 +1,3 @@
-Algoritmo "fibonacci"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 02/02/2025
 Var
    C1, C2, valor1, valor2, valor3: inteiro
 
